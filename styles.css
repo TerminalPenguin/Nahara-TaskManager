@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poetsen+One&display=swap');
+#Header1 {
+  text-align: center;
+}
+
+.gyat{
+  text-align: center;
+}
+#taskContainer {
+  max-width: 200px; /* Set the maximum width of the container */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 10px; /* Add some padding to the container */
+  border: 3px solid black; /* Add border to the container */
+  border-radius: 25px;
+  background-color: rgb(164, 154, 251);
+}
+
+.POR {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+/* CUSTOMIZE THE REST OF THE WEBSITE */
+
+* {
+  background-color: #a4f32e;
+}
+
+#task, #date, #submit {
+  background-color: beige;
+}
+
